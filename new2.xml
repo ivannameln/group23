@@ -3,4 +3,9 @@
 	<age>34</age>
 	<pets>1 dog</pets>
 	<salary>8000USD </salary>
+	<Movie> The Lord of Ring </Movie>
+	<TVshow> Friends</TVshow>
+	<Food> french fries</Food>
+	<Season> summer</Season>
+	<Country> Japan</Country>
 </person>
