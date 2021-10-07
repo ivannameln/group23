@@ -1,0 +1,5 @@
+Movie: The Lord of Ring 
+TVshow: Friends
+Food: french fries
+Season: summer
+Country: Japan
